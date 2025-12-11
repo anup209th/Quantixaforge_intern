@@ -1,0 +1,1 @@
+This project showcases the custom PCB I designed during my internship at QuantixaForge for their automation bot, TUMKI. The board was developed in EasyEDA, covering schematic design, component selection, layout optimization, and routing. It integrates the essential control and sensing modules required for the bot’s reliable operation.
